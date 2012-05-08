@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "ransack/version"
 
 Gem::Specification.new do |s|
-  s.name        = "ransack"
+  s.name        = "ransack_ffcrm"
   s.version     = Ransack::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ernie Miller", "Ryan Bigg"]
